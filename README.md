@@ -1,32 +1,35 @@
-👋 Sobre mim
-Olá! Me chamo João vitor, sou estudante de Engenharia da Computação e atualmente estou no 2º período. Tenho grande interesse em automação, robótica e tecnologias voltadas para a Indústria 4.0.
+# 👋 Sobre mim
 
-Atualmente, estou focado em:
+Olá! Me chamo **João Vitor**, sou estudante de **Engenharia de Software** na **Universidade Veiga de Almeida**.
 
-Aprimorar minhas habilidades em Python (estudando estrutura de dados, OOP e automação).
+Tenho grande interesse em **automação** e **inteligência artificial**, e estou construindo meu caminho profissional com foco em tecnologias que unem **software e hardware**.
 
-Estudar C/C++, IoT e ROS para atuar no desenvolvimento de sistemas embarcados e robóticos.
+Atualmente:
 
-Desenvolver projetos práticos para compor meu portfólio, principalmente voltados para automação de tarefas, robôs autônomos e integração com sensores e atuadores.
+- Estudo e pratico **Python** para automação de tarefas, controle de processos e prototipagem de soluções inteligentes.
+- Estou me aprofundando também em **C/C++**, para sistemas embarcados e comunicação com sensores e atuadores.
+- Tenho inglês básico, mas estou aprimorando para atuar **internacionalmente**, especialmente em ambientes industriais e tecnológicos.
+- Estou sempre em busca de novos conhecimentos para crescer na área de **automação industrial e inteligência artificial**.
 
-💡 Também estou me preparando para certificações relevantes como:
+---
 
-Siemens Certified Automation Engineer
+## 🚀 Habilidades
 
-ROS Developer Certification
+- **Linguagens**: Python , C/C++
+- **Foco de estudos**: Automação com Python e C++, sistemas embarcados, controle de hardware, inteligência artificial aplicada à indústria, Raspberry Pi, IOT, ROS
 
-🌍 Meu objetivo é, futuramente, atuar internacionalmente em países com forte indústria tecnológica como EUA, Alemanha, China ou Japão, desenvolvendo soluções inovadoras para fábricas e sistemas inteligentes.
+---
 
-📚 Além disso, estou constantemente aprendendo novas tecnologias, participando de cursos e aplicando o conhecimento em pequenos projetos disponíveis aqui no GitHub.
+## 🎯 Objetivos
 
-🚀 Tecnologias e Ferramentas
-Linguagens: Python (Intermediário), C (Básico).
+- Ingressar profissionalmente na área de **automação industrial e inteligência artificial**
+- Trabalhar em projetos nacionais e internacionais com tecnologias de ponta
+- Desenvolver um portfólio prático com soluções automatizadas e inteligentes
+- Obter certificações em automação e IA (como ROS, Siemens, etc.)
 
-Ferramentas: Git, PyAutoGUI, VS Code
+---
 
-Estudando: Raspberry Pi, ROS,
+## 📫 Contato
 
-📫 Contato
-LinkedIn: https://www.linkedin.com/in/joaovitordsmaranhao/)
-
-E-mail: joaovitordsmaranhao@gmail.com
+- **E-mail**: joaovitordsmaranhao@gmail.com  
+- **LinkedIn**: https://www.linkedin.com/in/joaovitordsmaranhao/
