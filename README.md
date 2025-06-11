@@ -1,5 +1,5 @@
-👋 Sobre mim
-Olá! Me chamo [Seu Nome], sou estudante de Engenharia da Computação e atualmente estou no 2º período. Tenho grande interesse em automação, robótica e tecnologias voltadas para a Indústria 4.0.
+    👋 Sobre mim
+Olá! Me chamo João vitor, sou estudante de Engenharia da Computação e atualmente estou no 2º período. Tenho grande interesse em automação, robótica e tecnologias voltadas para a Indústria 4.0.
 
 Atualmente, estou focado em:
 
@@ -20,13 +20,13 @@ ROS Developer Certification
 📚 Além disso, estou constantemente aprendendo novas tecnologias, participando de cursos e aplicando o conhecimento em pequenos projetos disponíveis aqui no GitHub.
 
 🚀 Tecnologias e Ferramentas
-Linguagens: Python (Intermediário), C (Básico), Java (básico)
+Linguagens: Python (Intermediário), C (Básico).
 
 Ferramentas: Git, PyAutoGUI, VS Code
 
-Estudando: Raspberry Pi, ROS, Linux para embarcados
+Estudando: Raspberry Pi, ROS,
 
 📫 Contato
-LinkedIn: [Seu LinkedIn]
+LinkedIn: https://www.linkedin.com/in/joaovitordsmaranhao/)
 
-E-mail: seuemail@exemplo.com
+E-mail: joaovitordsmaranhao@gmail.com
