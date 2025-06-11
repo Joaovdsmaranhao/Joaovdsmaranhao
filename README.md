@@ -1,4 +1,4 @@
-    👋 Sobre mim
+👋 Sobre mim
 Olá! Me chamo João vitor, sou estudante de Engenharia da Computação e atualmente estou no 2º período. Tenho grande interesse em automação, robótica e tecnologias voltadas para a Indústria 4.0.
 
 Atualmente, estou focado em:
