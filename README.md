@@ -1,35 +1,67 @@
-# 👋 Sobre mim
+<h1 align="center">👨‍💻 João Vitor Maranhão</h1>
 
-Olá! Me chamo **João Vitor**, sou estudante de **Engenharia de Software** na **Universidade Veiga de Almeida**.
-
-Tenho grande interesse em **automação** e **inteligência artificial**, e estou construindo meu caminho profissional com foco em tecnologias que unem **software e hardware**.
-
-Atualmente:
-
-- Estudo e pratico **Python** para automação de tarefas, controle de processos e prototipagem de soluções inteligentes.
-- Estou me aprofundando também em **C/C++**, para sistemas embarcados e comunicação com sensores e atuadores.
-- Tenho inglês básico, mas estou aprimorando para atuar **internacionalmente**, especialmente em ambientes industriais e tecnológicos.
-- Estou sempre em busca de novos conhecimentos para crescer na área de **automação industrial e inteligência artificial**.
+<p align="center">
+  <em>Estudante de Engenharia de Software • Foco em automação industrial e IA com Python e C/C++</em>
+</p>
 
 ---
 
-## 🚀 Habilidades
+### 🚀 Sobre mim
 
-- **Linguagens**: Python , C/C++
-- **Foco de estudos**: Automação com Python e C++, sistemas embarcados, controle de hardware, inteligência artificial aplicada à indústria, Raspberry Pi, IOT, ROS
+Sou estudante de Engenharia de Software na **Universidade Veiga de Almeida**, com foco em **automação industrial** e **inteligência artificial**, unindo hardware e software.
 
----
-
-## 🎯 Objetivos
-
-- Ingressar profissionalmente na área de **automação industrial e inteligência artificial**
-- Trabalhar em projetos nacionais e internacionais com tecnologias de ponta
-- Desenvolver um portfólio prático com soluções automatizadas e inteligentes
-- Obter certificações em automação e IA (como ROS, Siemens, etc.)
+- 📌 Estudando **Python** para automações, controle de processos e soluções inteligentes.
+- ⚙️ Praticando **C/C++** para sistemas embarcados e comunicação com sensores e atuadores.
+- 🌍 Aprimorando meu inglês para oportunidades internacionais.
+- 🔎 Buscando sempre novos desafios e aprendizados no campo da automação e IA.
 
 ---
 
-## 📫 Contato
+### 🧠 Habilidades Técnicas
 
-- **E-mail**: joaovitordsmaranhao@gmail.com  
-- **LinkedIn**: https://www.linkedin.com/in/joaovitordsmaranhao/
+#### 🗣️ Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+#### 🧰 Frameworks & Ferramentas
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🎯 Objetivos
+
+- Ingressar profissionalmente na área de **automação industrial e IA**.
+- Trabalhar em projetos nacionais e internacionais com tecnologias de ponta.
+- Desenvolver soluções automatizadas para desafios reais da indústria.
+- Conquistar certificações como:
+  - Siemens Certified Automation Engineer
+  - ROS Developer Certification
+  - Certificações em IoT e Indústria 4.0
+
+---
+
+### 📈 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| `sistema-monitoramento` | Sistema inteligente de monitoramento industrial | Python, sensores, automação |
+| `bot-whatsapp` | Automação de respostas e ações no WhatsApp | PyAutoGUI, automação |
+| *em andamento...* | *Mais projetos virão em breve!* | |
+
+---
+
+### 📬 Contato
+
+📧 [joaovdsrmaranhao@gmail.com](mailto:joaovdsrmaranhao@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/joaovitorsasilvamaranhao)
+
+---
+
+<p align="center">
+  <em>"Transformando ideias em soluções inteligentes que unem software e hardware."</em>
+</p>
