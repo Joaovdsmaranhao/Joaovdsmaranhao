@@ -32,7 +32,7 @@ Sou estudante de Ciencia da computação na **Estácio**, com foco em **automaç
 
 ### 📬 Contato
 
-📧 [joaovdsrmaranhao@gmail.com](mailto:joaovdsrmaranhao@gmail.com)  
+📧 [joaovdsrmaranhao@gmail.com](mailto:joaovitordsmaranhao@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/joaovitordsmaranhao/)
 
 ---
