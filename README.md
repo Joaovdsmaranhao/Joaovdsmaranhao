@@ -1,14 +1,14 @@
 <h1 align="center">👨‍💻 João Vitor Maranhão</h1>
 
 <p align="center">
-  <em>Estudante de Engenharia de Software • Foco em automação industrial e IA com Python e C/C++</em>
+  <em>Estudante de Ciencia da computação  • Foco em automação industrial e IA com Python </em>
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software na **Universidade Veiga de Almeida**, com foco em **automação industrial** e **inteligência artificial**, unindo hardware e software.
+Sou estudante de Ciencia da computação na **Estácio**, com foco em **automação industrial** e **inteligência artificial**, unindo hardware e software.
 
 - 📌 Estudando **Python** para automações, controle de processos e soluções inteligentes.
 - 🌍 Aprimorando meu inglês para oportunidades internacionais.
@@ -33,7 +33,7 @@ Sou estudante de Engenharia de Software na **Universidade Veiga de Almeida**, co
 ### 📬 Contato
 
 📧 [joaovdsrmaranhao@gmail.com](mailto:joaovdsrmaranhao@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/joaovitorsasilvamaranhao)
+💼 [LinkedIn](https://www.linkedin.com/in/joaovitordsmaranhao/)
 
 ---
 
