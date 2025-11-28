@@ -5,16 +5,15 @@
 
 ## 👤 Sobre Mim
 
-Sou **Desenvolvedor em formação** e estudante de **Ciência da Computação** na Estácio, apaixonado por **Automação de Processos** e **Desenvolvimento Web**.  
-Meu foco é transformar tarefas complexas e repetitivas em **soluções inteligentes e eficientes**, gerando valor e produtividade.
+Sou Desenvolvedor Full Stack com foco em Python para automação de processos e desenvolvimento Web com Node.js e React. Trabalho criando soluções inteligentes que automatizam tarefas repetitivas, reduzem erros e aumentam produtividade — sempre com código limpo, organizado e bem estruturado.
 
-💡 **Minha Proposta de Valor:**
+Tenho experiência prática com Selenium, PyAutoGUI, Pandas e manipulação de planilhas, além de desenvolver interfaces modernas com HTML, CSS, JavaScript e React. No back-end, utilizo Node.js para criar APIs, integrações e serviços que conectam automações Python a aplicações web.
 
-- Desenvolvo automações e *scripts* em **Python** para otimizar tarefas, gerar relatórios e reduzir tempo de execução.
-- Tenho experiência com **Front-end** (HTML, CSS, JavaScript) e estou avançando em **React** e **Django/Flask** para criar aplicações web completas.
-- Demonstro **liderança e proatividade** na organização de projetos e no ensino de boas práticas de **Git/GitHub**.
+Sou apaixonado por eficiência, automação e desenvolvimento de soluções que facilitam o dia a dia de pessoas e empresas. Prezo por boas práticas de Git/GitHub, versionamento e organização de projetos.
 
-🚀 Busco oportunidades como **Desenvolvedor Python Júnior**, **Trainee** ou em **Automação de Processos**, aplicando minhas habilidades em projetos nacionais e internacionais.
+🚀 Objetivo
+
+Atuar como Desenvolvedor Full Stack ou Desenvolvedor Python, contribuindo com projetos que envolvem automação, back-end, front-end e construção de ferramentas inteligentes para resolver problemas reais.
 
 ---
 
