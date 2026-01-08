@@ -1,7 +1,6 @@
 # 💻 João Vitor Maranhão  
-### Desenvolvedor Python & Web | Automação de Processos (Selenium / PyAutoGUI) | Estudante de Ciência da Computação
+### Desenvolvedor Front end | Estudante de Ciência da Computação
 
----
 
 ## 👤 Sobre Mim
 
