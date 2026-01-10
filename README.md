@@ -6,7 +6,7 @@
 
 Sou Desenvolvedor Front-end com foco em React. Trabalho criando soluções inteligentes que automatizam tarefas repetitivas, reduzem erros e aumentam produtividade — sempre com código limpo, organizado e bem estruturado.
 
-Desenvolvo interfaces modernas com HTML, CSS, JavaScript e React. No back-end.
+Desenvolvo interfaces modernas com HTML, CSS, JavaScript e React.
 
 Sou apaixonado por eficiência, automação e desenvolvimento de soluções que facilitam o dia a dia de pessoas e empresas. Prezo por boas práticas de Git/GitHub, versionamento e organização de projetos.
 
@@ -28,7 +28,6 @@ Atuar como Desenvolvedor Front end, contribuindo com projetos front-end e constr
 <img alt="TailwindCSS" title="TailwindCSS" width="45px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
 <img alt="Git" title="Git" width="45px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img alt="GitHub" title="GitHub" width="45px" style="padding-right:40px; filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img alt="Python" title="Python" width="45px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img alt="Selenium" title="Selenium" width="45px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
 <img alt="Mysql" title="Mysql" width="45px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img alt="Docker" title="Docker" width="45px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
