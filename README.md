@@ -36,8 +36,7 @@ Missão:      Transformar problemas reais em código
 ```
 
 - 🔭 Desenvolvendo aplicações **desktop**, **web** e **scripts de automação**
-- 🌱 Aprendendo sempre — atualmente focado em **JavaScript avançado** e **Python**
-- ⚡ Experiência real com **Electron**, **Node.js**, **Selenium** e **n8n**
+- 🌱 Aprendendo sempre — atualmente focado em **JavaScript avançado**,**Python** e **typescript com react ** 
 - 🛠️ Projetos entregues para **clientes reais** em produção
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
