@@ -36,7 +36,7 @@ Missão:      Transformar problemas reais em código
 ```
 
 - 🔭 Desenvolvendo aplicações **desktop**, **web** e **scripts de automação**
-- 🌱 Aprendendo sempre — atualmente focado em **JavaScript avançado**,**Python** e **typescript com react ** 
+- 🌱 Aprendendo sempre — atualmente focado em **JavaScript avançado**,**Python** e **typescript com react** 
 - 🛠️ Projetos entregues para **clientes reais** em produção
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -101,13 +101,6 @@ Missão:      Transformar problemas reais em código
 
 ---
 
-### 📦 Inventário de Veículos
-
-> Ferramenta web desenvolvida para concessionária. Automatiza importação, processamento e organização de dados de inventário — eliminando horas de trabalho manual por semana.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-04080F?style=flat-square&logo=javascript&logoColor=00A8FF)
-![HTML](https://img.shields.io/badge/HTML5-04080F?style=flat-square&logo=html5&logoColor=00A8FF)
-![CSS](https://img.shields.io/badge/CSS3-04080F?style=flat-square&logo=css3&logoColor=00A8FF)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
